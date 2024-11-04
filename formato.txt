@@ -1,0 +1,50 @@
+ <div class="view">
+        <div class="container1" id = 'seccion1'>
+            <div class="block">
+                <h1>
+                    Palomitas gourmet al alcanze de todos
+                </h1>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi deleniti consequatur error 
+                    obcaecati magnam molestias quibusdam incidunt, quas reprehenderit iure dolorum optio impedit 
+                    porro, vero ipsa qui rem quod deserunt.
+                </p>
+                <a href="historia.html"> conoce nuestra historia</a>
+                <img src="logo.png" height="250" width="250" class="imagen">
+            </div>
+        </div>
+    </div>
+
+    <div class="view">
+        <div class="container2">
+            <div class="block" style="flex-direction: row-reverse;">
+                <h1>
+                    Palomitas gourmet al alcanze de todos
+                </h1>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi deleniti consequatur error 
+                    obcaecati magnam molestias quibusdam incidunt, quas reprehenderit iure dolorum optio impedit 
+                    porro, vero ipsa qui rem quod deserunt.
+                </p>
+                <a href="historia.html"> conoce nuestra historia</a>
+                <img src="logo.png" height="250" width="250" class="imagen">
+            </div>
+        </div>
+    </div>
+
+    <div class="view">
+        <div class="container3">
+            <div class="block">
+                <h1>
+                    Palomitas gourmet al alcanze de todos
+                </h1>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi deleniti consequatur error 
+                    obcaecati magnam molestias quibusdam incidunt, quas reprehenderit iure dolorum optio impedit 
+                    porro, vero ipsa qui rem quod deserunt.
+                </p>
+                <a href="historia.html"> conoce nuestra historia</a>
+                <img src="logo.png" height="250" width="250" class="imagen">
+            </div>
+        </div>
+    </div>
